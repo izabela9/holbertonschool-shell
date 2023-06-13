@@ -1,2 +1,2 @@
 #!/bin/bash 
-cat list | tr 'Ac' 'Ze'
+cat | tr 'Ac' 'Ze'
