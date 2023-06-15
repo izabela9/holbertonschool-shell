@@ -1,0 +1,2 @@
+#!/bin/bash
+\ls -1 | cat -n | grep -E '^[[:blank:]]*[13579]+[[:blank:]]+' | cut -f2-
